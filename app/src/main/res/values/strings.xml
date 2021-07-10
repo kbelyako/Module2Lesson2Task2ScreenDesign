@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Module2Lesson2Task2DesignScreen</string>
+    <string name="tv_MessCenterHeaderTxt">Центр сообщений</string>
+    <string name="tvServiceStateHeaderTxt">Работоспособность службы</string>
+    <string name="tvBillNotoficationHeaderTxt">Оповещений о выставлении счёта</string>
+    <string name="tvTextMessNotificationMessCenterTxt">YW имеют непрочитанные сообщения</string>
+    <string name="tvTextMessNotificationServiceStateTxt">Myt имеют новые уведомления</string>
+    <string name="tvTextMessNotificationBillNotificationTxt">Yaw ha без новых уведомлений</string>
+    <string name="tvHeaderTxt">Центр администрирования Microsoft 365</string>
+    <string name="tvHealthTxt">Health</string>
+    <string name="tvHealth2Txt">Quick links</string>
+</resources>
